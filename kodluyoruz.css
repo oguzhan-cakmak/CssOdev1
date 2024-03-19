@@ -1,0 +1,28 @@
+.sayfayaOrtalama1 {
+    text-align: center;
+}
+
+.renk1{
+    color: rgb(188, 78, 200);
+}
+
+.renk2{
+    color: rgb(118, 118, 30);
+}
+
+.yaziTipi1{
+    font-size: 15px;
+}
+
+.sayfayiOrtalama2{
+    display: flex; /* Flexbox'u kullanarak içeriği yatay olarak hizala */
+    justify-content: center; /* İçeriği yatay eksende ortala */
+     /* Başlıklar arasında boşluk bırakmak için kenar boşluğu ekle */
+    color: black;
+}
+
+.sayfayaOrtalama3{
+    text-align: center;
+    margin: 10px auto;
+    display: block;
+}
